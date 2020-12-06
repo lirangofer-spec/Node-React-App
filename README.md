@@ -1,4 +1,4 @@
-# Email - Node React App
+# Emaily - Node React App
 
 Emaily is an application which is lets you send surveys (via email) to thousands of people at one time. It allows you to customise the content of the email, and tracks each response to the surveys in the dashboard. Emaily is a pay-as-you-go service, where one credit can send out one batch of surveys. You can purchase 5 credits for $5.00 inside the application. You can run the application for free by following the trial payment steps below.
 
@@ -23,25 +23,25 @@ Once you're all set up with some credits on your account, you can begin to send 
 When the survey recipient responds to your email, either positively or negatively, then the dashboard will visually update with these responses. Every few minutes the dashboard will update these values.
 
 ### Technologies
-Front-End
-Axios
-Create-React-App
-React 16
-Reactstrap
-Redux
-Redux Form
-Redux Thunk
+- Front-End
+- Axios
+- Create-React-App
+- React 16
+- Reactstrap
+- Redux
+- Redux Form
+- Redux Thunk
 
 ### Back-End
-Body Parser
-Concurrently
-Cookie-Session
-Express (Node.JS)
-Local Tunnel
-Lodash
-Mongoose
-Nodemon
-Passport (Google OAuth 2.0)
-Path Parser
-SendGrid
-Stripe
+- Body Parser
+- Concurrently
+- Cookie-Session
+- Express (Node.JS)
+- Local Tunnel
+- Lodash
+- Mongoose
+- Nodemon
+- Passport (Google OAuth 2.0)
+- Path Parser
+- SendGrid
+- Stripe
